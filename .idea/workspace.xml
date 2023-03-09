@@ -1,17 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="" />
+    <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbsoluteValuesSumMinization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbsoluteValuesSumMinization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Add.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AddBorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AddBorder.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AddToDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AddToDigits.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdjacentElementsProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AdjacentElementsProduct.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AllLongestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AllLongestString.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlmostIncreasingSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlmostIncreasingSequence.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlphabeticShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AlphabeticShift.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AbsoluteValuesSumMinizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AddBorderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AddToDigitsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AdjacentElementsProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AllLongestStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlmostIncreasingSequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlphabeticShiftTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2MlXFbUwzH8BFA9f81Hi3wA1t8A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,9 +63,75 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AlphabeticShiftTest">
+    <configuration name="AddToDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddToDigitsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdjacentElementsProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdjacentElementsProductTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllLongestStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AllLongestStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlmostIncreasingSequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlmostIncreasingSequenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlphabeticShiftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlphabeticShiftTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlphabeticShiftTest" />
+        <item itemvalue="JUnit.AlmostIncreasingSequenceTest" />
+        <item itemvalue="JUnit.AllLongestStringTest" />
+        <item itemvalue="JUnit.AdjacentElementsProductTest" />
+        <item itemvalue="JUnit.AddToDigitsTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678343044110</updated>
+      <workItem from="1678343046484" duration="3734000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
