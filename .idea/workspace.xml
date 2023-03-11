@@ -5,39 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlphabetSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlphabetSubSequence.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlternateSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlternateSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AreEquallyStrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AreEquallyStrong.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AreSimilar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AreSimilar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayChange.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayConversion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayMaxConsecutiveSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayMaxConsecutiveSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayMaximalAdjacentDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayMaximalAdjacentDifference.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayPreviousLess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayPreviousLess.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayReplace.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AvoidObstacles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AvoidObstacles.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AlphabetSubSequenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AlternateSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AreEquallyStrongTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AreSimilarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayChangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayConversionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayMaxConsecutiveSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayMaximalAdjacentDifferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayPreviousLessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayReplaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AvoidObstaclesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BishopAndPawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BishopAndPawn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BoxBlur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BoxBlur.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Candies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Candies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CaseInsensitivePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CaseInsensitivePalindrome.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CenturyFromYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CenturyFromYear.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CharacterParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CharacterParity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CheckPalindrome.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChessBoardCellColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChessBoardCellColor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChunkyMonkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChunkyMonkey.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CircleOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CircleOfNumbers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommonCharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CommonCharacterCount.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompanyBotStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompanyBotStrategy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BishopAndPawnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BoxBlurTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CandiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CaseInsensitivePalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CenturyFromYearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CharacterParityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CheckPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ChessBoardCellColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ChunkyMonkeyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CircleOfNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CommonCharacterCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CompanyBotStrategyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,15 +70,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -84,48 +87,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AvoidObstaclesTest">
-    <configuration name="ArrayMaxConsecutiveSumTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CompanyBotStrategyTest">
+    <configuration name="ChunkyMonkeyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayMaxConsecutiveSumTest" />
+      <option name="MAIN_CLASS_NAME" value="ChunkyMonkeyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChunkyMonkeyTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChunkyMonkeyTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMaximalAdjacentDifferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CircleOfNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayMaximalAdjacentDifferenceTest" />
+      <option name="MAIN_CLASS_NAME" value="CircleOfNumbersTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPreviousLessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CommonCharacterCountTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayPreviousLessTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="CommonCharacterCountTest" />
+      <option name="METHOD_NAME" value="code" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayReplaceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CompanyBotStrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArrayReplaceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AvoidObstaclesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AvoidObstaclesTest" />
+      <option name="MAIN_CLASS_NAME" value="CompanyBotStrategyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AvoidObstaclesTest" />
-        <item itemvalue="JUnit.ArrayReplaceTest" />
-        <item itemvalue="JUnit.ArrayPreviousLessTest" />
-        <item itemvalue="JUnit.ArrayMaximalAdjacentDifferenceTest" />
-        <item itemvalue="JUnit.ArrayMaxConsecutiveSumTest.code" />
+        <item itemvalue="JUnit.CompanyBotStrategyTest" />
+        <item itemvalue="JUnit.CommonCharacterCountTest.code" />
+        <item itemvalue="JUnit.CircleOfNumbersTest" />
+        <item itemvalue="JUnit.ChunkyMonkeyTest" />
+        <item itemvalue="JUnit.ChunkyMonkeyTest.code" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +154,9 @@
       <option name="presentableId" value="Default" />
       <updated>1678343044110</updated>
       <workItem from="1678343046484" duration="12980000" />
+      <workItem from="1678511858301" duration="17000" />
+      <workItem from="1678511892863" duration="15000" />
+      <workItem from="1678514871965" duration="6474000" />
     </task>
     <servers />
   </component>
