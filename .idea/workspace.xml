@@ -5,39 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompareIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompareIntegers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompareRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompareRanges.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfirmEnding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfirmEnding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContainsCloseNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContainsCloseNums.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContainsDuplicate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConvertCelsiusToFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConvertCelsiusToFahrenheit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConvertString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConvertString.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CrossingSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CrossingSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DepositProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DepositProfit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DifferentSymbolsNaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DifferentSymbolsNaive.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DigitDegree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DigitDegree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CompareIntegersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CompareRangesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConfirmEndingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ContainsCloseNumsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ContainsDuplicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConvertCelsiusToFahrenheitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConvertStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CrossingSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DepositProfitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DifferentSymbolsNaiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DigitDegreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DomainType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DomainType.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElectionWinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ElectionWinner.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EncloseInBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EncloseInBrackets.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EvenDigitsOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EvenDigitsOnly.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractEachKth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractEachKth.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractMatrixColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractMatrixColumn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactorializeANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactorializeANumber.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FancyRide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FancyRide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FareEstimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FareEstimator.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fermactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fermactor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindClosestPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindClosestPair.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindEmailDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindEmailDomain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DomainTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ElectionWinnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EncloseInBracketsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EvenDigitsOnlyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExtractEachKthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExtractMatrixColumnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FactorializeANumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FancyRideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FareEstimatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FermactorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindClosestPairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FindEmailDomainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,16 +70,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "D:/work/system/CodeChallenges"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/system/CodeChallenges&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -85,61 +88,63 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DigitDegreeTest.code">
-    <configuration name="ConvertCelsiusToFahrenheitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FindEmailDomainTest">
+    <configuration name="FancyRideTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConvertCelsiusToFahrenheitTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConvertStringTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CrossingSumTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CrossingSumTest" />
+      <option name="MAIN_CLASS_NAME" value="FancyRideTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferentSymbolsNaiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FareEstimatorTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DifferentSymbolsNaiveTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="FareEstimatorTest" />
+      <option name="METHOD_NAME" value="code" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitDegreeTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FermactorTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DigitDegreeTest" />
+      <option name="MAIN_CLASS_NAME" value="FermactorTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindClosestPairTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindClosestPairTest" />
+      <option name="METHOD_NAME" value="code" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindEmailDomainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindEmailDomainTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DigitDegreeTest.code" />
-        <item itemvalue="JUnit.DifferentSymbolsNaiveTest" />
-        <item itemvalue="JUnit.CrossingSumTest.code" />
-        <item itemvalue="JUnit.ConvertStringTest" />
-        <item itemvalue="JUnit.ConvertCelsiusToFahrenheitTest" />
+        <item itemvalue="JUnit.FindEmailDomainTest" />
+        <item itemvalue="JUnit.FindClosestPairTest.code" />
+        <item itemvalue="JUnit.FermactorTest.code" />
+        <item itemvalue="JUnit.FareEstimatorTest.code" />
+        <item itemvalue="JUnit.FancyRideTest.code" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +161,7 @@
       <workItem from="1678511892863" duration="15000" />
       <workItem from="1678514871965" duration="6474000" />
       <workItem from="1678548514782" duration="5861000" />
+      <workItem from="1678614173646" duration="5360000" />
     </task>
     <servers />
   </component>
