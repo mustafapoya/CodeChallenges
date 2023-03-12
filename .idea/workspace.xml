@@ -5,48 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDigit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDuplicate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstNotRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstNotRepeatingCharacter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlattenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlattenArray.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GrowingPlant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GrowingPlant.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HouseNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HouseNumberSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HouseOfCats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HouseOfCats.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HtmlEndTagByStartTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HtmlEndTagByStartTag.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IncorrectPasswordAttempts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IncorrectPasswordAttempts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IncrementalBackups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IncrementalBackups.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IntegerToStringOfFixedWidth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IntegerToStringOfFixedWidth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IsTandemRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IsTandemRepeat.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LargestNumber.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LargestOfFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LargestOfFour.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstDigitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstDuplicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstNotRepeatingCharacterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FlattenArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GrowingPlantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HouseNumberSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HouseOfCatsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HtmlEndTagByStartTagTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IncorrectPasswordAttemptsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IncrementalBackupsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IntegerToStringOfFixedWidthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IsTandemRepeatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LargestNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LargestOfFourTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LateRide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LateRide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LaunchSequenceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LaunchSequenceChecker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LongestDigitsPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LongestDigitsPrefix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MakeArrayConsecutive2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MakeArrayConsecutive2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixElementsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixElementsSum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMultiple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MissingLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MissingLetters.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewNumeralSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NewNumeralSystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PagesNumberingWithInk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PagesNumberingWithInk.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PalindromeRearranging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PalindromeRearranging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LateRideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LaunchSequenceCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LongestDigitsPrefixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MakeArrayConsecutive2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MatrixElementsSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MaxMultipleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MissingLettersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NewNumeralSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PagesNumberingWithInkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PalindromeRearrangingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,50 +82,50 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LargestOfFourTest.code">
-    <configuration name="IncorrectPasswordAttemptsTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PagesNumberingWithInkTest.code">
+    <configuration name="MaxMultipleTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IncorrectPasswordAttemptsTest" />
+      <option name="MAIN_CLASS_NAME" value="MaxMultipleTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementalBackupsTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MissingLettersTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IncrementalBackupsTest" />
+      <option name="MAIN_CLASS_NAME" value="MissingLettersTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToStringOfFixedWidthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewNumeralSystemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IntegerToStringOfFixedWidthTest" />
+      <option name="MAIN_CLASS_NAME" value="NewNumeralSystemTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsTandemRepeatTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PagesNumberingWithInkTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsTandemRepeatTest" />
+      <option name="MAIN_CLASS_NAME" value="PagesNumberingWithInkTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOfFourTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeRearrangingTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LargestOfFourTest" />
+      <option name="MAIN_CLASS_NAME" value="PalindromeRearrangingTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -146,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LargestOfFourTest.code" />
-        <item itemvalue="JUnit.IsTandemRepeatTest.code" />
-        <item itemvalue="JUnit.IncrementalBackupsTest.code" />
-        <item itemvalue="JUnit.IntegerToStringOfFixedWidthTest" />
-        <item itemvalue="JUnit.IncorrectPasswordAttemptsTest.code" />
+        <item itemvalue="JUnit.PagesNumberingWithInkTest.code" />
+        <item itemvalue="JUnit.PalindromeRearrangingTest.code" />
+        <item itemvalue="JUnit.NewNumeralSystemTest" />
+        <item itemvalue="JUnit.MissingLettersTest.code" />
+        <item itemvalue="JUnit.MaxMultipleTest.code" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +156,7 @@
       <workItem from="1678514871965" duration="6474000" />
       <workItem from="1678548514782" duration="5861000" />
       <workItem from="1678614173646" duration="11667000" />
+      <workItem from="1678639886577" duration="5334000" />
     </task>
     <servers />
   </component>
