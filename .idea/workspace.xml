@@ -5,42 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DomainType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DomainType.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElectionWinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElectionWinner.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EncloseInBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EncloseInBrackets.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvenDigitsOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvenDigitsOnly.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractEachKth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractEachKth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractMatrixColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtractMatrixColumn.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactorializeANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactorializeANumber.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FancyRide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FancyRide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FareEstimator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FareEstimator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fermactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fermactor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindClosestPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindClosestPair.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindEmailDomain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindEmailDomain.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DomainTypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ElectionWinnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EncloseInBracketsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EvenDigitsOnlyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExtractEachKthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExtractMatrixColumnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FactorializeANumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FancyRideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FareEstimatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FermactorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FindClosestPairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FindEmailDomainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDigit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstDuplicate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstNotRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FirstNotRepeatingCharacter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FlattenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FlattenArray.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GrowingPlant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GrowingPlant.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HouseNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HouseNumberSum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HouseOfCats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HouseOfCats.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HtmlEndTagByStartTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HtmlEndTagByStartTag.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IncorrectPasswordAttempts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IncorrectPasswordAttempts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IncrementalBackups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IncrementalBackups.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntegerToStringOfFixedWidth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IntegerToStringOfFixedWidth.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IsTandemRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IsTandemRepeat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LargestNumber.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LargestOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LargestOfFour.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FirstDigitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FirstDuplicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FirstNotRepeatingCharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FlattenArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GrowingPlantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HouseNumberSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HouseOfCatsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HtmlEndTagByStartTagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IncorrectPasswordAttemptsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IncrementalBackupsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IntegerToStringOfFixedWidthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/IsTandemRepeatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LargestNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LargestOfFourTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,63 +94,63 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FindEmailDomainTest">
-    <configuration name="FancyRideTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LargestOfFourTest.code">
+    <configuration name="IncorrectPasswordAttemptsTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FancyRideTest" />
+      <option name="MAIN_CLASS_NAME" value="IncorrectPasswordAttemptsTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FareEstimatorTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IncrementalBackupsTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FareEstimatorTest" />
+      <option name="MAIN_CLASS_NAME" value="IncrementalBackupsTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FermactorTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegerToStringOfFixedWidthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FermactorTest" />
-      <option name="METHOD_NAME" value="code" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindClosestPairTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindClosestPairTest" />
-      <option name="METHOD_NAME" value="code" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindEmailDomainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindEmailDomainTest" />
+      <option name="MAIN_CLASS_NAME" value="IntegerToStringOfFixedWidthTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsTandemRepeatTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IsTandemRepeatTest" />
+      <option name="METHOD_NAME" value="code" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestOfFourTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LargestOfFourTest" />
+      <option name="METHOD_NAME" value="code" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindEmailDomainTest" />
-        <item itemvalue="JUnit.FindClosestPairTest.code" />
-        <item itemvalue="JUnit.FermactorTest.code" />
-        <item itemvalue="JUnit.FareEstimatorTest.code" />
-        <item itemvalue="JUnit.FancyRideTest.code" />
+        <item itemvalue="JUnit.LargestOfFourTest.code" />
+        <item itemvalue="JUnit.IsTandemRepeatTest.code" />
+        <item itemvalue="JUnit.IncrementalBackupsTest.code" />
+        <item itemvalue="JUnit.IntegerToStringOfFixedWidthTest" />
+        <item itemvalue="JUnit.IncorrectPasswordAttemptsTest.code" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +167,7 @@
       <workItem from="1678511892863" duration="15000" />
       <workItem from="1678514871965" duration="6474000" />
       <workItem from="1678548514782" duration="5861000" />
-      <workItem from="1678614173646" duration="5360000" />
+      <workItem from="1678614173646" duration="11667000" />
     </task>
     <servers />
   </component>
