@@ -5,30 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortByLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortByLength.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SquareDigitsSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SquareDigitsSequence.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StolenLaunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StolenLaunch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringConstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringConstruction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumAllPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumAllPrimes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumOddFibonacciNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumOddFibonacciNums.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfTwo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwitchLights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwitchLights.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SortByLengthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SquareDigitsSequenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StolenLaunchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringConstructionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SumAllPrimesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SumOddFibonacciNumsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SumOfTwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SwitchLightsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TasksType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TasksType.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueDigitProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueDigitProducts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ValidTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ValidTime.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TasksTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UniqueDigitProductsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ValidTimeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,37 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SumOfTwoTest.code">
-    <configuration name="SquareDigitsSequenceTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SquareDigitsSequenceTest" />
-      <option name="METHOD_NAME" value="code" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumAllPrimesTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumAllPrimesTest" />
-      <option name="METHOD_NAME" value="code" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOddFibonacciNumsTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeChallenges" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumOddFibonacciNumsTest" />
-      <option name="METHOD_NAME" value="code" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ValidTimeTest.code">
     <configuration name="SumOfTwoTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
@@ -127,13 +82,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TasksTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TasksTypeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueDigitProductsTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UniqueDigitProductsTest" />
+      <option name="METHOD_NAME" value="code" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidTimeTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeChallenges" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ValidTimeTest" />
+      <option name="METHOD_NAME" value="code" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ValidTimeTest.code" />
+        <item itemvalue="JUnit.UniqueDigitProductsTest.code" />
+        <item itemvalue="JUnit.TasksTypeTest" />
         <item itemvalue="JUnit.SumOfTwoTest.code" />
         <item itemvalue="JUnit.SwitchLightsTest.code" />
-        <item itemvalue="JUnit.SquareDigitsSequenceTest.code" />
-        <item itemvalue="JUnit.SumOddFibonacciNumsTest.code" />
-        <item itemvalue="JUnit.SumAllPrimesTest.code" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +136,7 @@
       <workItem from="1678548514782" duration="5861000" />
       <workItem from="1678614173646" duration="11667000" />
       <workItem from="1678639886577" duration="5334000" />
-      <workItem from="1678688635725" duration="13429000" />
+      <workItem from="1678688635725" duration="14841000" />
     </task>
     <servers />
   </component>
