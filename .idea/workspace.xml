@@ -5,36 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae470b4-2cf8-4fae-b822-fa1782850d84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LateRide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LateRide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LaunchSequenceChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LaunchSequenceChecker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LongestDigitsPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LongestDigitsPrefix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MakeArrayConsecutive2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MakeArrayConsecutive2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixElementsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixElementsSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMultiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMultiple.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MissingLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MissingLetters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NewNumeralSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NewNumeralSystem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PagesNumberingWithInk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PagesNumberingWithInk.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PalindromeRearranging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PalindromeRearranging.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LateRideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LaunchSequenceCheckerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LongestDigitsPrefixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MakeArrayConsecutive2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MatrixElementsSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MaxMultipleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MissingLettersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NewNumeralSystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PagesNumberingWithInkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PalindromeRearrangingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PigLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PigLatin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProCategorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProCategorization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProperNounCorrection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProperNounCorrection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RatingThreshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RatingThreshold.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReflectString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReflectString.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseString.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeekAndDestroy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeekAndDestroy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ShapeArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ShapeArea.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortByHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortByHeight.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PigLatinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProCategorizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProperNounCorrectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RatingThresholdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReflectStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeatsInTheaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeekAndDestroyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ShapeAreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SortByHeightTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,50 +80,50 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PagesNumberingWithInkTest.code">
-    <configuration name="MaxMultipleTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SortByHeightTest.code">
+    <configuration name="ReverseStringTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxMultipleTest" />
+      <option name="MAIN_CLASS_NAME" value="ReverseStringTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingLettersTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SeatsInTheaterTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MissingLettersTest" />
+      <option name="MAIN_CLASS_NAME" value="SeatsInTheaterTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewNumeralSystemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SeekAndDestroyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NewNumeralSystemTest" />
+      <option name="MAIN_CLASS_NAME" value="SeekAndDestroyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PagesNumberingWithInkTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShapeAreaTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PagesNumberingWithInkTest" />
+      <option name="MAIN_CLASS_NAME" value="ShapeAreaTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeRearrangingTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortByHeightTest.code" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeChallenges" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PalindromeRearrangingTest" />
+      <option name="MAIN_CLASS_NAME" value="SortByHeightTest" />
       <option name="METHOD_NAME" value="code" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PagesNumberingWithInkTest.code" />
-        <item itemvalue="JUnit.PalindromeRearrangingTest.code" />
-        <item itemvalue="JUnit.NewNumeralSystemTest" />
-        <item itemvalue="JUnit.MissingLettersTest.code" />
-        <item itemvalue="JUnit.MaxMultipleTest.code" />
+        <item itemvalue="JUnit.SortByHeightTest.code" />
+        <item itemvalue="JUnit.ShapeAreaTest.code" />
+        <item itemvalue="JUnit.SeekAndDestroyTest" />
+        <item itemvalue="JUnit.SeatsInTheaterTest.code" />
+        <item itemvalue="JUnit.ReverseStringTest.code" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +155,7 @@
       <workItem from="1678548514782" duration="5861000" />
       <workItem from="1678614173646" duration="11667000" />
       <workItem from="1678639886577" duration="5334000" />
+      <workItem from="1678688635725" duration="7271000" />
     </task>
     <servers />
   </component>
